@@ -1,3 +1,3 @@
 [build]
   base = "/" # Optional.  Specifies a base directory if your project isn't at the root
-  publish = src # Replace "build" with the actual folder containing your built files
+  publish = "src" # Replace "build" with the actual folder containing your built files
